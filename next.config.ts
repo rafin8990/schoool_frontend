@@ -11,9 +11,10 @@ const nextConfig: NextConfig = {
       'localhost',
       'task.bamsbd.com',
       'shinystepsedu.com',
+      'api.shinystepsedu.com',
     ],
   },
   output: 'standalone',
 };
 
-export default nextConfig;
+export default nextConfig;
